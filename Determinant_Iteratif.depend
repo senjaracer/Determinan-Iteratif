@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1735097682 source:d:\albert\determinant_iteratif\main.cpp
+	<iostream>
+	<vector>
+	<chrono>
+	<cstdlib>
+
+1735193950 source:d:\determinant_iteratif\determinant_iteratif\main.cpp
+	<iostream>
+	<vector>
+	<chrono>
+	<cstdlib>
+
